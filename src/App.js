@@ -3,7 +3,6 @@ import P1 from './imgs/P1.png'
 import P2 from './imgs/P2.png'
 import P3 from './imgs/P3.png'
 import P4 from './imgs/P4.png'
-import qr from './imgs/qr.jpg'
 
 function App() {
     return (
